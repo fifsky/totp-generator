@@ -1,5 +1,3 @@
 # Generate time-based one time passwords in the browser
 
-![](totp-generator.png)
-
-[Demo](https://fifsky.github.io/totp-generator/public/)
+[Online Demo](https://fifsky.github.io/totp-generator/public/)
